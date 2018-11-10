@@ -5147,7 +5147,7 @@ et:Palmiõli
 eu:Palmondo olio
 fa:روغن نخل
 fi:Palmuöljy
-fr:huile de palme, huile végétale de palme
+fr:huile de palme, huile végétale de palme, huile de fruit du palmier, huile de fruit de palmier
 gl:Aceite de palma
 ga:Ola phailme
 he:שמן דקלים
@@ -5223,7 +5223,7 @@ sk:palma
 
 <en:palm oil
 en:palm fat
-fr:graisse végétale de palme, graisse de palme, matière grasse de palme, matière grasse végétale de palme, Acides gras de palme
+fr:graisse végétale de palme, graisse de palme, matière grasse de palme, matière grasse végétale de palme, Acides gras de palme, graisse de fruit du palmier, graisse de fruit de palmier
 da:palmfedtstof
 de:Palmfett
 es:grasa de palma
